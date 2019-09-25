@@ -1,0 +1,33 @@
+Java
+
+Common Data types:
+    Primitives:   just the value   +++  takes less memory, easier
+        int
+        char
+        float
+        boolean
+        long
+        short
+        double
+
+    Object Types:  tools behind
+        Interger
+        Character
+        Boolean
+        Float
+        Long
+        Short
+        Double
+        String
+
+    Java Collections
+        Arraylist - Dynamically sized Arrays
+        List    - Collection of object that have the same object type
+                -Statically Sized
+        HashMap -NOT THREAD SAFE!!! *** non concurrent operations (can happen at the same type)
+                -One null key, any value can be null
+        HashTable   -ARE THREAD SAFE concurrent operations (cannot happens at the same type)
+                    -NO NULLS
+        HashSet -No duplicate entries
+        Queue   -FIFO (First in First out)
+        Stacks  -LIFO (Last in Last out)
